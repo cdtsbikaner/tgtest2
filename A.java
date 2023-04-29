@@ -12,3 +12,7 @@ class B extends A{
             System.out.println("ax+bx");
         }
 }
+class C extends B{
+
+        x = y *z ;
+}
